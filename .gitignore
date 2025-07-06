@@ -1,0 +1,15 @@
+
+.env
+bot.env
+credentials/
+
+
+__pycache__/
+*.pyc
+
+
+venv/
+
+.DS_Store
+.vscode/
+.idea/
