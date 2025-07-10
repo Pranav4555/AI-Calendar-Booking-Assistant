@@ -2,6 +2,7 @@
 
 A fully functional AI-powered appointment booking assistant built with FastAPI, LangChain (Groq LLaMA3), and Google Calendar API, with a Streamlit chat‑style frontend. Users can ask natural language queries ("When am I free?", "Book 3 PM", "Cancel last booking") to check availability, create, and delete events in Google Calendar.
 
+Live app: https://frontend-ai-assistance-jquob5idjkzsdqmb43enom.streamlit.app/
 ---
 
 # Features
